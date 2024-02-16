@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ae3b40e-6b3a-4a2a-9656-783eb6211130" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/studentorder/dao/DbInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/studentorder/dao/StudentOrderDaoImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/SaveStudentOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/SaveStudentOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/StudentOrderValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/StudentOrderValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/dao/DictionaryDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/dao/DictionaryDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/dao/StudentOrderDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/dao/StudentOrderDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/Adult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/Adult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/CountryArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/CountryArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/PassportOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/PassportOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/RegisterOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/RegisterOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/Street.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/Street.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/StudentOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/StudentOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/StudentOrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/StudentOrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/domain/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/javacourse/studentorder/dao/DictionaryDaoImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/studentorder/dao/DictionaryDaoImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2buZzXC4VSwouuIKX5E2KRTBcaY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/student-order&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;PostgreSQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\student-order\src\main\resources" />
+      <recent name="C:\Projects\student-order\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\student-order\src\test" />
+      <recent name="C:\Projects\student-order" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.javacourse.studentorder.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentOrderDaoImplTest.testSaveStudentOrderError">
+    <configuration name="SaveStudentOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.SaveStudentOrder" />
+      <module name="student-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javacourse.studentorder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.DictionaryDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryDaoImplTest.testStreet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.DictionaryDaoImplTest" />
+      <option name="METHOD_NAME" value="testStreet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentOrderDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.StudentOrderDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentOrderDaoImplTest.testSaveStudentOrderError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.javacourse.studentorder.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.javacourse.studentorder.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.javacourse.studentorder.dao.StudentOrderDaoImplTest" />
+      <option name="METHOD_NAME" value="testSaveStudentOrderError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentOrderDaoImplTest.testSaveStudentOrderError" />
+        <item itemvalue="JUnit.DictionaryDaoImplTest.testStreet" />
+        <item itemvalue="Application.SaveStudentOrder" />
+        <item itemvalue="JUnit.StudentOrderDaoImplTest" />
+        <item itemvalue="JUnit.DictionaryDaoImplTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ae3b40e-6b3a-4a2a-9656-783eb6211130" name="Changes" comment="" />
+      <created>1707067205238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707067205238</updated>
+      <workItem from="1707067207002" duration="11536000" />
+      <workItem from="1707245317683" duration="3765000" />
+      <workItem from="1707560075137" duration="218000" />
+      <workItem from="1707560306963" duration="4838000" />
+      <workItem from="1707676112036" duration="1527000" />
+      <workItem from="1707992115156" duration="9194000" />
+    </task>
+    <task id="LOCAL-00001" summary="add maven and initial database test">
+      <created>1707161751765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707161751765</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add working project">
+      <created>1707560500879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707560500879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add working project with files">
+      <created>1707560792630</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707560792630</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add maven and initial database test" />
+    <MESSAGE value="add working project" />
+    <MESSAGE value="add working project with files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add working project with files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/dao/StudentOrderDaoImpl.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
