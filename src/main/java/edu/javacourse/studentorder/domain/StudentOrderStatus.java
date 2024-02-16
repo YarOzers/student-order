@@ -11,5 +11,6 @@ public enum StudentOrderStatus
             }
         }
         throw new RuntimeException("Unknown value:" + value);
+
     }
 }
